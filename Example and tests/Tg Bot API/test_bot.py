@@ -68,4 +68,4 @@ token = os.getenv("BOT_TOKEN")
 chat = os.getenv("CHAT_ID")
 #generate_list('el_list.json','fav_list.json',5)
 
-send_list(token,chat,json_to_list('fav_list.json'))
+send_mess(token,chat,"Bye")
