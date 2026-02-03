@@ -1,5 +1,5 @@
 /Example and tests/.env
-/Example and tests/my_database.db
+*.db
 /Example and tests/bingo.jpg
 /Example and tests/Examples AI/
 __pycache__/
